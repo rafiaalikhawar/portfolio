@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1920" height="1080" viewBox="0 0 1920 1080">
+  <rect width="1920" height="1080" fill="#ffe7d6"/>
+  <rect width="1920" height="1080" fill="url(#dots)"/>
+  <defs>
+    <pattern id="dots" width="32.4" height="32.4" patternUnits="userSpaceOnUse">
+      <circle cx="8.64" cy="8.64" r="1.728" fill="#27314d" fill-opacity="0.12"/>
+    </pattern>
+  </defs>
+  <rect x="32.4" y="32.4" width="1855.2" height="1015.2" rx="32.4"
+        fill="#ffffff" fill-opacity="0.55" stroke="#27314d" stroke-opacity="0.25"
+        stroke-width="4.32" stroke-dasharray="17.28 12.96"/>
+  
+        <rect x="636" y="291.59999999999997" width="648" height="367.20000000000005" rx="21.6" stroke="#27314d" stroke-opacity="0.35" stroke-width="6.48" fill="none"/>
+        <circle cx="1154.4" cy="475.2" r="48.6" stroke="#27314d" stroke-opacity="0.35" stroke-width="6.48" fill="none"/>
+        <path d="M 744 475.2 h 86.4 M 787.2 432 v 86.4" stroke="#27314d" stroke-opacity="0.35" stroke-width="6.48" fill="none" stroke-linecap="round"/>
+        <path d="M 657.5999999999999 604.8 q 108 -54 216 0" stroke="#27314d" stroke-opacity="0.35" stroke-width="6.48" fill="none"/>
+  <text x="50%" y="874.8" text-anchor="middle" font-family="Georgia, serif"
+        font-size="56.16" font-weight="600" fill="#27314d">Sonic Game</text>
+  <text x="50%" y="934.2" text-anchor="middle" font-family="system-ui, sans-serif"
+        font-size="28.08" fill="#27314d" fill-opacity="0.75">Games & Play · captures being added</text>
+  <text x="50%" y="999" text-anchor="middle" font-family="ui-monospace, monospace"
+        font-size="21.6" letter-spacing="2.16" fill="#667085">PLACEHOLDER FRAME · REAL VISUALS BEING ADDED</text>
+</svg>

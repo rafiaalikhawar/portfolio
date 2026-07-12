@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="1000" viewBox="0 0 1600 1000">
+  <rect width="1600" height="1000" fill="#ddf1ea"/>
+  <rect width="1600" height="1000" fill="url(#dots)"/>
+  <defs>
+    <pattern id="dots" width="30" height="30" patternUnits="userSpaceOnUse">
+      <circle cx="8" cy="8" r="1.6" fill="#27314d" fill-opacity="0.12"/>
+    </pattern>
+  </defs>
+  <rect x="30" y="30" width="1540" height="940" rx="30"
+        fill="#ffffff" fill-opacity="0.55" stroke="#27314d" stroke-opacity="0.25"
+        stroke-width="4" stroke-dasharray="16 12"/>
+  <line x1="800" y1="440" x2="580" y2="310" stroke="#27314d" stroke-opacity="0.35" stroke-width="6" fill="none"/><line x1="800" y1="440" x2="1000" y2="290" stroke="#27314d" stroke-opacity="0.35" stroke-width="6" fill="none"/><line x1="800" y1="440" x2="650" y2="600" stroke="#27314d" stroke-opacity="0.35" stroke-width="6" fill="none"/><line x1="800" y1="440" x2="1040" y2="560" stroke="#27314d" stroke-opacity="0.35" stroke-width="6" fill="none"/><circle cx="800" cy="440" r="35" fill="#ffffff" stroke="#27314d" stroke-opacity="0.35" stroke-width="6" /><circle cx="580" cy="310" r="22" fill="#ffffff" stroke="#27314d" stroke-opacity="0.35" stroke-width="6" /><circle cx="1000" cy="290" r="22" fill="#ffffff" stroke="#27314d" stroke-opacity="0.35" stroke-width="6" /><circle cx="650" cy="600" r="22" fill="#ffffff" stroke="#27314d" stroke-opacity="0.35" stroke-width="6" /><circle cx="1040" cy="560" r="22" fill="#ffffff" stroke="#27314d" stroke-opacity="0.35" stroke-width="6" />
+  <text x="50%" y="810" text-anchor="middle" font-family="Georgia, serif"
+        font-size="52" font-weight="600" fill="#27314d">Climate & Health Research</text>
+  <text x="50%" y="865" text-anchor="middle" font-family="system-ui, sans-serif"
+        font-size="26" fill="#27314d" fill-opacity="0.75">Research · multimodal evidence map</text>
+  <text x="50%" y="925" text-anchor="middle" font-family="ui-monospace, monospace"
+        font-size="20" letter-spacing="2" fill="#667085">PLACEHOLDER FRAME · REAL VISUALS BEING ADDED</text>
+</svg>

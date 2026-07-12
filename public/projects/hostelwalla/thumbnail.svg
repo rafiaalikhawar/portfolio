@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="750" viewBox="0 0 1200 750">
+  <rect width="1200" height="750" fill="#dceeff"/>
+  <rect width="1200" height="750" fill="url(#dots)"/>
+  <defs>
+    <pattern id="dots" width="22.5" height="22.5" patternUnits="userSpaceOnUse">
+      <circle cx="6" cy="6" r="1.2" fill="#27314d" fill-opacity="0.12"/>
+    </pattern>
+  </defs>
+  <rect x="22.5" y="22.5" width="1155" height="705" rx="22.5"
+        fill="#ffffff" fill-opacity="0.55" stroke="#27314d" stroke-opacity="0.25"
+        stroke-width="3" stroke-dasharray="12 9"/>
+  
+        <rect x="390" y="180" width="420.00000000000006" height="270" rx="15" stroke="#27314d" stroke-opacity="0.35" stroke-width="4.5" fill="none"/>
+        <line x1="390" y1="232.5" x2="810" y2="232.5" stroke="#27314d" stroke-opacity="0.35" stroke-width="4.5" fill="none"/>
+        <circle cx="420" cy="206.25" r="8.25" fill="#27314d" fill-opacity="0.3"/>
+        <circle cx="442.5" cy="206.25" r="8.25" fill="#27314d" fill-opacity="0.3"/>
+        <circle cx="465" cy="206.25" r="8.25" fill="#27314d" fill-opacity="0.3"/>
+        <rect x="420" y="270" width="150" height="37.5" rx="7.5" stroke="#27314d" stroke-opacity="0.35" stroke-width="4.5" fill="none"/>
+        <rect x="420" y="330" width="150" height="37.5" rx="7.5" stroke="#27314d" stroke-opacity="0.35" stroke-width="4.5" fill="none"/>
+        <rect x="615" y="270" width="150" height="97.5" rx="7.5" stroke="#27314d" stroke-opacity="0.35" stroke-width="4.5" fill="none"/>
+  <text x="50%" y="607.5" text-anchor="middle" font-family="Georgia, serif"
+        font-size="39" font-weight="600" fill="#27314d">HostelWalla</text>
+  <text x="50%" y="648.75" text-anchor="middle" font-family="system-ui, sans-serif"
+        font-size="19.5" fill="#27314d" fill-opacity="0.75">Thumbnail</text>
+  <text x="50%" y="693.75" text-anchor="middle" font-family="ui-monospace, monospace"
+        font-size="15" letter-spacing="1.5" fill="#667085">PLACEHOLDER FRAME · REAL VISUALS BEING ADDED</text>
+</svg>
